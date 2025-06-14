@@ -63,4 +63,4 @@ Frontend Mentor have 2 profile plans: Free and Premium.
 
 - Github - [sina ghadimi](https://github.com/sina-ghm)
 
-- Twitter - [sina ghadimi](https://x.com/realsinaghadimi)
+- Twitter - [sina ghadimi](https://x.com/sinadevelops)
